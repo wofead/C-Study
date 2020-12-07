@@ -1,2 +1,2 @@
-# C-Study
+# C#Study
 Record my C# study.
